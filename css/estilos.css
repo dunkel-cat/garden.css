@@ -45,6 +45,7 @@ header nav a:hover{
 	font-size: 18px;
 	width: 70%;
 }
+
 .preamble{
 	font-size: 18px;
 	padding:20px;
@@ -57,4 +58,42 @@ header nav a:hover{
   	margin-bottom: 1%;
   	margin-left: 1%;
   	margin-right: 1%;
+}
+.main{
+	font-size: 18px;
+	padding:20px;
+	background-color:#8000FF;
+	width: 60%;
+	color: #F6E3CE;
+	border-radius: 3%;
+	float: left;
+	margin-top: 1%;
+  	margin-bottom: 1%;
+  	margin-left: 1%;
+  	margin-right: 1%;
+}
+aside{
+	font-size: 18px;
+	padding:50px;
+	background-color:#F6E3CE;
+	width: 20%;
+	height: 100%
+	color: #F6E3CE;
+	font-family: 'Indie Flower', cursive;
+	margin-top: 20px;
+	border-radius: 5%;
+	position: absolute;
+	right: 0;
+	top: 40%;
+	margin-top: 0.5%;
+  	margin-bottom: 0.5%;
+  	margin-left: 0.5%;
+  	margin-right: 0.5%;
+  }
+
+footer{
+
+	width: 100%;
+	background:#F5A9E1;	
+	padding: 60px 0px;
 }
